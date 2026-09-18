@@ -1,0 +1,7 @@
+{
+  "name": "NASA Orbital Lab",
+  "description": "Interactive next-generation 3D space exploration and scientific data visualization platform featuring real NASA spacecraft, simulated telemetry, and artifact lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
